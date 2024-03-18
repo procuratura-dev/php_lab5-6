@@ -1,0 +1,5 @@
+name: Петр
+message: Супер!
+age: 5
+mail: petya@mail.ru
+
